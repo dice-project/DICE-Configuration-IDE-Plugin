@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt,twoside]{article}
+
+%% Language and font encodings
+\usepackage[utf8]{inputenc}
+
+%% Sets page size and margins
+\usepackage[a4paper,top=3cm,bottom=3cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+%% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{biblatex}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\input{titlepage.tex}
+
+\tableofcontents
+\newpage
+
+\input{C1/summary}
+\newpage
+\input{C2/background}
+\input{C3/timetable}
+\input{C3/eclipse}
+\input{C3/integration}
+\input{C4/evaluation}
+\input{C5/appendix}
+
+\end{document}

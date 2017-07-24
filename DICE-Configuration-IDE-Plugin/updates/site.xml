@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/DICE_Configuration_IDE_Plugin_1.0.0.0.jar" id="DICE_Configuration_IDE_Plugin" version="1.0.0.0">
+      <category name="plugin"/>
+   </feature>
+   <category-def name="plugin" label="plugin"/>
+</site>

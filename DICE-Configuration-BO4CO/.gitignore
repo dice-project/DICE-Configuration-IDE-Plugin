@@ -1,0 +1,9 @@
+BO4CO
+*.m~
+.DS_Store
+*.mat
+temp
+bin
+bin.zip
+release_history
+*.pyc
