@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DICE Configuration Optimization IDE Plugin
+Bundle-SymbolicName: uk.ic.dice.ide.co;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui,
+ org.apache.httpcomponents.httpcore,
+ org.apache.httpcomponents.httpclient,
+ org.apache.commons.io,
+ org.junit
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

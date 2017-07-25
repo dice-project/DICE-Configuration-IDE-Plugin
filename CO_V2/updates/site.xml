@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/uk.ic.dice.ide.co.feature_1.0.0.201707251035.jar" id="uk.ic.dice.ide.co.feature" version="1.0.0.201707251035">
+      <category name="uk.ic.dice.ide.co.category"/>
+   </feature>
+   <category-def name="uk.ic.dice.ide.co.category" label="Configuration Optimization"/>
+</site>
