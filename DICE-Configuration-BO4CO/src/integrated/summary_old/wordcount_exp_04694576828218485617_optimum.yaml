@@ -1,6 +1,0 @@
-- [component.spout_num, 1]
-- [topology.max.spout.pending, 100]
-- [topology.sleep.spout.wait.strategy.time.ms, 100]
-- [component.split_bolt_num, 1]
-- [component.count_bolt_num, 3]
-- [storm.messaging.netty.min_wait_ms, 10]
