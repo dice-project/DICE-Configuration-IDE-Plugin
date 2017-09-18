@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?eclipse version="3.4"?>
 <plugin>
 
    <extension
          point="org.eclipse.ui.views">
-      <category
-            name="DICE-Configuration-IDE-Plugin"
-            id="DICE-Configuration-IDE-Plugin">
-      </category>
       <view
             name="DICE Configuration View"
             icon="icons/sample.gif"
-            category="DICE-Configuration-IDE-Plugin"
+            category="org.dice.ui.views.category"
             class="uk.ic.dice.ide.co.ui.View"
             id="DICE-Configuration-IDE-View">
       </view>
